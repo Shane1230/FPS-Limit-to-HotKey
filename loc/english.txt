@@ -1,0 +1,8 @@
+{
+	"FPSHK_menu_main_title" : "FPS Limite to HotKey",
+	"FPSHK_menu_main_desc" : "FPS Limite to HotKey Options",
+	"FPSHK_show_on_hud_title" : "Show on HUD",
+	"FPSHK_show_on_hud_desc" : "You should change hotkey in 'Mod Keybinds'\n (ESC - OPTIONS - MOD KEYBINDS)",
+	"FPSHK_show_in_chat_title" : "Show in Chat",
+	"FPSHK_show_in_chat_desc" : "You should change hotkey in 'Mod Keybinds'\n (ESC - OPTIONS - MOD KEYBINDS)"
+}

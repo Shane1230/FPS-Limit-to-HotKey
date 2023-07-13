@@ -1,0 +1,8 @@
+{
+	"FPSHK_menu_main_title" : "FPS Cap to HotKey",
+	"FPSHK_menu_main_desc" : "FPS Cap to HotKey 설정",
+	"FPSHK_show_on_hud_title" : "허드에 표시",
+	"FPSHK_show_on_hud_desc" : "단축키는 '모드 키 설정'에서 바꾸셔야 합니다.\n (ESC - 옵션 - 모드 키 설정)",
+	"FPSHK_show_in_chat_title" : "채팅에 표시",
+	"FPSHK_show_in_chat_desc" : "단축키는 '모드 키 설정'에서 바꾸셔야 합니다.\n (ESC - 옵션 - 모드 키 설정)"
+}
