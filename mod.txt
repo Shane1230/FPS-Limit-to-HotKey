@@ -3,7 +3,7 @@
 	"description" : "Change frame rate limit to Hotkey",
 	"author" : "Shane",
 	"Contact" : "https://steamcommunity.com/id/Shane1230/",
-	"version" : "1.0",
+	"version" : "1.1",
 	"priority": 100,
 	"updates": [
         		{
@@ -12,7 +12,7 @@
 		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/FPSHK"
 	 	}
 	}
-	]
+	],
 	"hooks": [
 		{ 
 			"hook_id" : "lib/managers/menumanager",
@@ -25,7 +25,7 @@
        			 "name" : "FPS cap 30",
        			 "description" : "Set Frame Rate limit to 30",
        			 "script_path" : "keybinds/30.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -34,7 +34,7 @@
        			 "name" : "fps cap 45",
        			 "description" : "Set Frame Rate limit to 45",
        			 "script_path" : "keybinds/45.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -43,7 +43,7 @@
        			 "name" : "fps cap 60",
        			 "description" : "Set Frame Rate limit to 60",
        			 "script_path" : "keybinds/60.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -52,7 +52,7 @@
        			 "name" : "fps cap 75",
        			 "description" : "Set Frame Rate limit to 75",
        			 "script_path" : "keybinds/75.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -61,7 +61,7 @@
        			 "name" : "fps cap 90",
        			 "description" : "Set Frame Rate limit to 90",
        			 "script_path" : "keybinds/90.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -70,7 +70,7 @@
        			 "name" : "fps cap 105",
        			 "description" : "Set Frame Rate limit to 105",
        			 "script_path" : "keybinds/105.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -79,7 +79,7 @@
        			 "name" : "fps cap 120",
        			 "description" : "Set Frame Rate limit to 120",
        			 "script_path" : "keybinds/120.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -88,7 +88,7 @@
        			 "name" : "fps cap 135",
        			 "description" : "Set Frame Rate limit to 135",
        			 "script_path" : "keybinds/135.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -97,7 +97,7 @@
        			 "name" : "fps cap 135",
        			 "description" : "Set Frame Rate limit to 135",
        			 "script_path" : "keybinds/135.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -106,7 +106,7 @@
        			 "name" : "fps cap 144",
        			 "description" : "Set Frame Rate limit to 144",
        			 "script_path" : "keybinds/144.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		},
@@ -115,7 +115,7 @@
        			 "name" : "fps cap unlimited",
        			 "description" : "Set Frame Rate limit to unlimited",
        			 "script_path" : "keybinds/unlimited.lua",
-      			 "run_in_menu" : true,
+      			 "run_in_menu" : false,
        			 "run_in_game" : true,
        			 "localized" : false
     		}
